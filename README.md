@@ -1,2 +1,18 @@
-# CSE3318-HashTable
-Hash table with separate chaining in C that manages Digimon records (load, add, search, delete, display)
+# DigiGuide – Hash Table with Chaining
+
+A menu based console application written in C that stores and manages Digimon records using a hash table of size 1000 with separate chaining.
+
+## Features:
+- Custom polynomial rolling hash function 
+- Collision resolution using singly linked lists
+- Load records from a pipe-delimited text file
+- Add new Digimon
+- Delete by name
+- Search by name
+- Filter by starting letter
+- Display entire hash table
+- Count total entries
+- Proper dynamic memory allocation and cleanup
+#Compile and Run:
+gcc Code6_1002148516.c -o digiguide
+./digiguide Code6_1002148516_InputFile.txt
