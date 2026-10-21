@@ -1,6 +1,6 @@
 # DigiGuide – Hash Table with Chaining
 
-A menu based console application written in C that stores and manages Digimon records using a hash table of size 1000 with separate chaining.
+A menu based console application written in C that stores and manages Digimon records using a hash table of size 1000 with separate chaining. Completed as a course assignment using instructor-provided starter code. My contributions included Add, Delete, Search, Filter, Display, Dynamic memory allocation, and Hash Function.
 
 ## Features:
 - Custom polynomial rolling hash function 
