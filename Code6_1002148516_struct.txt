@@ -1,0 +1,9 @@
+typedef struct Digimon
+{
+    char *name;
+    float SP;
+    char attribute;
+    int HP;
+    struct Digimon *next_ptr;
+}
+DIGIMON;
