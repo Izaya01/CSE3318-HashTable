@@ -13,6 +13,7 @@ A menu based console application written in C that stores and manages Digimon re
 - Display entire hash table
 - Count total entries
 - Proper dynamic memory allocation and cleanup
-#Compile and Run:
+
+**#Compile and Run:**
 gcc Code6_1002148516.c -o digiguide
 ./digiguide Code6_1002148516_InputFile.txt
